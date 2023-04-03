@@ -5,7 +5,7 @@
 - [High-Level Processed Data Overview](#High-Level-Processed-Data-Overview)
 - [Data Collection](#Data-Collection)
 - [Data Wrangling](#Data-Wrangling)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 
 ## Business Problem
 
