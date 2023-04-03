@@ -1,1 +1,1 @@
-[The American Customer Satisfaction Index (ACSI) 4bc71b72c8a24503967ee9ec26735886.md](https://github.com/Martins-Diego/American-Customer-Satisfaction-Index/files/11134483/The.American.Customer.Satisfaction.Index.ACSI.4bc71b72c8a24503967ee9ec26735886.md)
+
