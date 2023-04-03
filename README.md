@@ -10,7 +10,7 @@ To contribute to the growing body of knowledge on customer satisfaction and help
 
 ## High-Level Processed Data Overview
 
-![ASCI DASHBOARD SS.jpg](ASCI_DASHBOARD_SS.jpg)
+![ASCI DASHBOARD SS.jpg](https://raw.githubusercontent.com/Martins-Diego/American-Customer-Satisfaction-Index/main/ASCI_DASHBOARD_SS.jpg)
 
 ## Data Collection
 
@@ -228,7 +228,7 @@ LEFT JOIN GENDER GEN ON D.GENDER = GEN.GENDER_ID;
 
 Resultant Model
 
-![DATA_MODEL.png](DATA_MODEL.png)
+![DATA_MODEL.png](https://raw.githubusercontent.com/Martins-Diego/American-Customer-Satisfaction-Index/main/DATA_MODEL.png)
 
 ## Exploratory Data Analysis (EDA)
 
