@@ -6,8 +6,14 @@
 - [Data Collection](#Data-Collection)
 - [Data Modeling](#Data-Modeling)
 - [Data Wrangling](#Data-Wrangling)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-Eda)
+  -[Average Age vs Income](#Average-Age-vs-Income)
+  -[Satisfaction Rate by Industry](#Satisfaction-Rate-by-Industry)
+  -[Impact of Customer Complaints](#Impact-of-Customer-Complaints)
+  -[Education Level](#Education-Level)
+  -[Impact of Customer Complaints](#Impact-of-Customer-Complaints)
+  -[Expectations vs Overall Quality](#Expectations-vs-Overall-Quality)
+  
 ## Business Problem
 
 In today's highly competitive business landscape, understanding customer satisfaction is crucial for the success of any organization. It is a key driver of customer loyalty, brand reputation, and overall business performance, prompting organizations across various industries to invest heavily in measuring and improving customer satisfaction.
