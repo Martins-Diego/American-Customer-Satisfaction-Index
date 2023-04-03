@@ -4,6 +4,7 @@
 - [Business Problem](#Business-Problem)
 - [High-Level Processed Data Overview](#High-Level-Processed-Data-Overview)
 - [Data Collection](#Data-Collection)
+- [Data Modeling](#Data-Modeling)
 - [Data Wrangling](#Data-Wrangling)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 
