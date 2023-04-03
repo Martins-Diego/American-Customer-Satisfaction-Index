@@ -10,7 +10,7 @@ To contribute to the growing body of knowledge on customer satisfaction and help
 
 ## High-Level Processed Data Overview
 
-![ASCI DASHBOARD SS.jpg](ASCI_DASHBOARD_SS.jpg)
+ASCI DASHBOARD SS.jpg
 
 ## Data Collection
 
