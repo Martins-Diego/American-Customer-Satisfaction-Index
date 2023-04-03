@@ -1,5 +1,12 @@
 # The American Customer Satisfaction Index (ACSI)
 
+## Table of Contents
+- [Business Problem](#Business-Problem)
+- [High-Level Processed Data Overview](#High-Level-Processed-Data-Overview)
+- [Data Collection](#Data-Collection)
+- [Data Wrangling](#Data-Wrangling)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+
 ## Business Problem
 
 In today's highly competitive business landscape, understanding customer satisfaction is crucial for the success of any organization. It is a key driver of customer loyalty, brand reputation, and overall business performance, prompting organizations across various industries to invest heavily in measuring and improving customer satisfaction.
