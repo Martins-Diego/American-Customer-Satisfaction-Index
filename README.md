@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Business Problem](#Business-Problem)
-- [High-Level Processed Data Overview](#High-Level-Processed-Data-Overview)
+- [Processed Data Overview](#Processed-Data-Overview)
 - [Data Collection](#Data-Collection)
 - [Data Modeling](#Data-Modeling)
 - [Data Wrangling](#Data-Wrangling)
@@ -22,7 +22,7 @@ One organization that has emerged as a leader in this field is The American Cust
 
 To contribute to the growing body of knowledge on customer satisfaction and help businesses improve their customer satisfaction levels, this project analyzes a sample of survey data collected by the ACSI in 2015. The goal was to explore customers perceptions of their experiences with individual companies in the Processed Food, Commercial Airlines, Internet Service Providers, and Commercial Banks Industries, identifying trends and patterns that can inform decisions to gain a competitive advantage and ultimately drive business success. 
 
-## High-Level Processed Data Overview
+## Processed Data Overview
 
 ![ASCI_DASHBOARD_SS.jpg](https://raw.githubusercontent.com/Martins-Diego/American-Customer-Satisfaction-Index/main/ASCI_DASHBOARD_SS.jpg)
 
