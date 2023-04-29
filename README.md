@@ -1,5 +1,6 @@
 # The American Customer Satisfaction Index (ACSI)
-
+[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-yellowgreen)](https://powerbi.microsoft.com/)
 ## Table of Contents
 - [Business Problem](#Business-Problem)
 - [Processed Data Overview](#Processed-Data-Overview)
